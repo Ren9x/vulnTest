@@ -1,0 +1,6 @@
+projectKey=vulnTest
+serverUrl=http://localhost:9000
+serverVersion=25.1.0.102122
+dashboardUrl=http://localhost:9000/dashboard?id=vulnTest
+ceTaskId=d7524613-9376-4760-bffd-6fe50e7829e9
+ceTaskUrl=http://localhost:9000/api/ce/task?id=d7524613-9376-4760-bffd-6fe50e7829e9
